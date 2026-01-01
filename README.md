@@ -8,20 +8,6 @@
 
 ---
 
-## 📌 Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Build & Run (Unity)](#build--run-unity)
-- [Controls](#controls)
-- [Contributing](#contributing)
-- [License](#license)
-- [Credits](#credits)
-
----
-
 ## 🧠 About
 
 In Kyohop, players must race through a series of platforming challenges to reach the exit portal on each level.  

@@ -1,8 +1,5 @@
 # 🪐 Kyohop — 3D Parkour Game
 
-![Kyohop Screenshot](./path/to/your/screenshot1.png)
-![In-Game Action](./path/to/your/screenshot2.png)
-
 **Kyohop** is a first-person 3D platformer built for a game jam that challenges the player to navigate a mysterious facility using precision, timing, and skill.
 
 🎮 **Genre**: 3D Platformer / Parkour  

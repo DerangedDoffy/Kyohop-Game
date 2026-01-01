@@ -31,7 +31,7 @@ Each map tests your ability to judge distance, time jumps, and maintain momentum
 
 Download and run the build:
 
-👉 https://derangeddoffy.itch.io/kyohop:contentReference
+👉 https://derangeddoffy.itch.io/kyohop
 
 1. Click the link above.
 2. Download the latest Windows build.
